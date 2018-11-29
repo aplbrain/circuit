@@ -3,7 +3,7 @@ const text = `
 ## Program Information:
 
 Where: The Johns Hopkins University (JHU) and Johns Hopkins University Applied Physics Laboratory (JHU/APL)  
-When: : May 20, 2019 - August 9, 2019
+When: : May 20, 2019 - August 9, 2019 
 
 Students are invited to apply for a research experience that enhances their research skills through hands-on data exploration, staff mentorship, and problem-solving. Students will have the opportunity to participate in seminars, workshops, and research efforts throughout the institute. Some skills that students may obtain are experience with data analytics, coding, scientific communication, developing independent research questions, contributing to abstracts and papers and more!
 
